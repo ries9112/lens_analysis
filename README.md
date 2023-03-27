@@ -10,6 +10,10 @@ Contributions are very welcome! If you want to take the same code and change the
 ... add here
 
 
+- if [streamlit url](https://lens-wordcloud.streamlit.app/) not working can use [this one instead](https://mlflow-291816.uc.r.appspot.com/)
+- 
+
+
 # Python Applications
 
 ... add here
