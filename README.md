@@ -7,6 +7,11 @@ Contributions are very welcome! If you want to take the same code and change the
 
 # R Applications
 
+... ADD 
+
+
+# Python Applications
+
 ### Lens Word Cloud
 
 https://lenster.xyz/posts/0x0102cc-0x0110
@@ -15,9 +20,4 @@ You can try the live version of the app here: https://lens-wordcloud.streamlit.a
 
 The full reproducible version of the application is available here: https://github.com/ries9112/lens_wordcloud
 
-
-
-# Python Applications
-
-... add here
 
