@@ -7,11 +7,14 @@ Contributions are very welcome! If you want to take the same code and change the
 
 # R Applications
 
-... add here
+### Lens Word Cloud
 
+https://lenster.xyz/posts/0x0102cc-0x0110
 
-- if [streamlit url](https://lens-wordcloud.streamlit.app/) not working can use [this one instead](https://mlflow-291816.uc.r.appspot.com/)
-- 
+You can try the live version of the app here: https://lens-wordcloud.streamlit.app/ or you could try this one if the other link is getting too much traffic and is not working: https://mlflow-291816.uc.r.appspot.com/
+
+The full reproducible version of the application is available here: https://github.com/ries9112/lens_wordcloud
+
 
 
 # Python Applications
